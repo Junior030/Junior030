@@ -14,6 +14,8 @@ e atualmente trabalho como Servidor PÃºblico in Student in Summer Job na Trybe ð
 
 **Lingagens e ferramentas:** 
 
-<img src="html.png" width="50px">
+<img src="html.png" width="50px"> <img src="css.jpeg" width="50px"> <img src="javascript.png" width="50px"> <img src="html.png" width="50px"> 
+<img src="git.png" width="50px"> <img src="github.png" width="50px"> <img src="bootstrap.png" width="50px"> <img src="jest.png" width="50px">
+<img src="react.png" width="50px">
 
 

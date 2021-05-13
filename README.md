@@ -16,9 +16,8 @@ e atualmente trabalho como Servidor PÃºblico in Student in Summer Job na Trybe ð
 
 <img src="html.png" height="50px" width="50px"> <img src="css.jpeg" height="50px" width="50px"> <img src="javascript.png" height="50px" width="50px"> <img src="git.png" height="50px" width="50px"> <img src="github.png" height="50px" width="50px"> <img src="bootstrap.png.png" height="50px" width="50px"> <img src="jest.png" height="50px" width="50px"> <img src="react.png" height="50px" width="50px">
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior030)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior030)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -14,7 +14,7 @@ e atualmente trabalho como Servidor PÃºblico in Student in Summer Job na Trybe ð
 
 **Lingagens e ferramentas:** 
 
-<img src="html.png" heigth="50px" width="50px"><img src="css.jpeg" heigth="50px" width="50px"><img src="javascript.png" heigth="50px" width="50px"><img src="git.png" heigth="50px" width="50px"><img src="github.png" heigth="50px" width="50px"><img src="bootstrap.png.png" heigth="50px" width="50px"><img src="jest.png" width="50px"><img src="react.png" heigth="50px" width="50px">
+<img src="html.png" height="50px" width="50px"><img src="css.jpeg" height="50px" width="50px"><img src="javascript.png" height="50px" width="50px"><img src="git.png" height="50px" width="50px"><img src="github.png" height="50px" width="50px"><img src="bootstrap.png.png" height="50px" width="50px"><img src="jest.png" height="50px" width="50px"><img src="react.png" height="50px" width="50px">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior030)](https://github.com/anuraghazra/github-readme-stats)

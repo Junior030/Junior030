@@ -19,3 +19,7 @@ e atualmente trabalho como Servidor PÃºblico in Student in Summer Job na Trybe ð
 <img src="react.png" heigth="50px" width="50px">
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior030)](https://github.com/anuraghazra/github-readme-stats)
+
+
+

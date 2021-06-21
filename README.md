@@ -8,6 +8,7 @@ Sou estudante de Análise E Desenvolvimento de Sistemas e faço parte da escola 
 - 💬Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📧Por favor, envie um email para [juniorhenrique030@gmail.com](https://mail.google.com) para me encontrar;
 - 📰Veja meu [Curriculum Vitae](https://docs.google.com/document/d/1F-5Z_Q651JM5WHCn-qyQns8tbbrQ8o-eZkpVxaPWIA4/edit?usp=sharing) para mais informações;
+- 🌐Veja meu [Portfólio](https://junior030.github.io/portfolio/) pra projetos desenvolvidos;
 - 🔠Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end;**
 - 🐙Estou aprendendo **React (Redux,Context API e React Hooks);**
 - 🏅Meus hobies são: Futebol e games;

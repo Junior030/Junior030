@@ -14,6 +14,7 @@ Sou estudante de Análise E Desenvolvimento de Sistemas e faço parte da escola 
 - 🏅Meus hobies são: Futebol e games;
 
 **Contato:**
+
 [<img src="whatsapp.png" height="50px" width="50px">](https://api.whatsapp.com/send?phone=5537999069725)[<img src="linkedlin.png" height="50px" width="50px">](https://www.linkedin.com/in/juniorhenrique030/)
 
 **Lingagens e ferramentas:** 

@@ -13,6 +13,9 @@ Sou estudante de Análise E Desenvolvimento de Sistemas e faço parte da escola 
 - 🐙Estou aprendendo **React (Redux,Context API e React Hooks);**
 - 🏅Meus hobies são: Futebol e games;
 
+**Contato:**
+[<img src="whatsapp.png" height="50px" width="50px">](https://api.whatsapp.com/send?phone=5537999069725)[<img src="linkedlin.png" height="50px" width="50px">](https://www.linkedin.com/in/juniorhenrique030/)
+
 **Lingagens e ferramentas:** 
 
 <img src="html.png" height="50px" width="50px"> <img src="css.jpeg" height="50px" width="50px"> <img src="javascript.png" height="50px" width="50px"> <img src="git.png" height="50px" width="50px"> <img src="github.png" height="50px" width="50px"> <img src="bootstrap.png.png" height="50px" width="50px"> <img src="jest.png" height="50px" width="50px"> <img src="react.png" height="50px" width="50px"> <img src="node.png" height="50px" width="50px">

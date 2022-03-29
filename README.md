@@ -4,6 +4,12 @@ Sou estudante de Análise E Desenvolvimento de Sistemas e faço parte da escola 
 
 ----
 
+#### Contribuições
+
+[FXN Capital](https://github.com/JuniorDevFF?tab=overview&from=2022-02-01&to=2022-02-28) 
+
+----
+
 **Os meus interesses são:**
 
 <img align="right" alt="GIF" src="gifProgramer.gif" /> 

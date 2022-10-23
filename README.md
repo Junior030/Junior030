@@ -1,6 +1,6 @@
 ### Olá, bom dia, boa tarde ou boa noite! 🌞 🌕
 
-Sou estudante de Análise E Desenvolvimento de Sistemas e faço parte da escola de ensino ativo Trybe, com foco em me tornar um **Desenvolvedor Full-stack 👨‍💼 Jr.** 
+Sou formado em Análise E Desenvolvimento de Sistemas e na escola de ensino ativo Trybe.
 
 ----
 
